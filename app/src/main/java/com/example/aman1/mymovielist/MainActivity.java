@@ -26,7 +26,7 @@ import static com.example.aman1.mymovielist.services.ConnectionService.BackendSe
 public class MainActivity extends AppCompatActivity {
 
     private FragmentManager fragmentManager;
-    private static final String TAG = "Main Activity ";
+    private static final String TAG = "Main Activity";
 
  //   CompositeDisposable compositeDisposible;
 
